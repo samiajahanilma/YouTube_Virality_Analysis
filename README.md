@@ -299,7 +299,7 @@ YouTube-Virality-Analysis/
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/samiajahanilma/YouTube_Virality_Analysis>
 ```
 
 ### 2. Navigate to the project directory
@@ -351,5 +351,6 @@ This project highlights the following analytics skills:
 ## Author
 **Samia Jahan Ilma**  
 Data Analytics & Business Intelligence | Python | SQL | Pandas | Data Visualization
+Github : https://github.com/samiajahanilma | LinkedIn : https://www.linkedin.com/in/samia-jahan-ilma/
 
 ---
