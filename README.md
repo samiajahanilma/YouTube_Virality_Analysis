@@ -274,13 +274,6 @@ Based on the findings, the following recommendations can be considered for conte
 ```bash
 YouTube-Virality-Analysis/
 │
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   └── youtube_virality_analysis.ipynb
-│
 ├── images/
 │   ├── correlation_heatmap.png
 │   ├── likes_distribution.png
@@ -290,8 +283,13 @@ YouTube-Virality-Analysis/
 │   ├── viral_videos_by_category.png
 │   └── viral_videos_by_channel.png
 │
-├── requirements.txt
-└── README.md
+├── notebooks/
+│   └── youtube_virality_analysis.ipynb
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
 ```
 ---
 
